@@ -1,6 +1,5 @@
 # 💫 About Me:
 🌱 Currently studying Master of Information Technology at UWA and exploring AI & cybersecurity<br>
-💬 Ask me about iOS development, Swift, Objective-C, and mobile app architecture
 
 
 # 📊 GitHub Stats:
